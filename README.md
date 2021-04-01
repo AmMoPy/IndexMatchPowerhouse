@@ -2,7 +2,7 @@
 
 Index and Match: lookup powerhouse.
 
-While you may be familiar with popular lookup functions in excel (V/Hlookup), you are probably not much acquainted with its beefed up version Index and Match. This is not a debate about which function is better, rather a simplification of what might seems complex at the first glance.
+While you may be familiar with popular lookup functions in excel (V/Hlookup), you are probably not much acquainted with its beefed up version Index and Match. This is not a debate about which function is better, rather a simplification of what might seems complex at first glance.
 
 Why use Index and Match:
 
