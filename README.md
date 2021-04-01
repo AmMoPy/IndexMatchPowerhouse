@@ -23,8 +23,8 @@ So how does it work?
 - Name cell ranges of lookup criteria in the main table (optional)
 
 - Write the syntax: 
-  - Vertical lookup : Index(where to look(main table), match(look up criteria(sub table), location of look up criteria(main table), type of match),what to look for)
-  - Horizontal lookup : Index(what to look for(main table), match(look up criteria(sub table), location of look up criteria(main table), type of match))
+  - Vertical lookup : Index(where to look-main table, match(look up criteria-sub table, location of look up criteria-main table, type of match),what to look for)
+  - Horizontal lookup : Index(what to look for-main table, match(look up criteria-sub table, location of look up criteria-main table, type of match))
  
 - Apply the function: Just Hit enter and you will get a nasty error!. Array like functions can't be activated buy just using Enter, rather, Ctrl + Shift + Enter. Remember that each time you edit the function you need to apply it using this combo.
 
